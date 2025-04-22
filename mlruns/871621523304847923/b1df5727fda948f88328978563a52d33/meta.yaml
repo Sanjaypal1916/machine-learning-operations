@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/871621523304847923/b1df5727fda948f88328978563a52d33/artifacts
+end_time: 1745328609186
+entry_point_name: ''
+experiment_id: '871621523304847923'
+lifecycle_stage: active
+run_id: b1df5727fda948f88328978563a52d33
+run_name: angry-ray-506
+run_uuid: b1df5727fda948f88328978563a52d33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745328604889
+status: 3
+tags: []
+user_id: sanjay

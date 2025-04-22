@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745329975008
+current_stage: None
+description: ''
+last_updated_timestamp: 1745329975008
+name: LogisticRegression
+run_id: 7d7574bd4fca479aa7e0c847db0b4dfe
+run_link: ''
+source: mlflow-artifacts:/871621523304847923/7d7574bd4fca479aa7e0c847db0b4dfe/artifacts/iris_model2
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/871621523304847923/7d7574bd4fca479aa7e0c847db0b4dfe/artifacts/iris_model2
+user_id: null
+version: 5

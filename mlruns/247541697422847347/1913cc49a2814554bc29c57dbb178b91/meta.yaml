@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/247541697422847347/1913cc49a2814554bc29c57dbb178b91/artifacts
+end_time: 1745328604723
+entry_point_name: ''
+experiment_id: '247541697422847347'
+lifecycle_stage: active
+run_id: 1913cc49a2814554bc29c57dbb178b91
+run_name: puzzled-cod-29
+run_uuid: 1913cc49a2814554bc29c57dbb178b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745328590694
+status: 3
+tags: []
+user_id: sanjay

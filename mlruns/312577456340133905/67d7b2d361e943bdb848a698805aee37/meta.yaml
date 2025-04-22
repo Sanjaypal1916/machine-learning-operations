@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/312577456340133905/67d7b2d361e943bdb848a698805aee37/artifacts
+end_time: 1745328586198
+entry_point_name: ''
+experiment_id: '312577456340133905'
+lifecycle_stage: active
+run_id: 67d7b2d361e943bdb848a698805aee37
+run_name: caring-tern-309
+run_uuid: 67d7b2d361e943bdb848a698805aee37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745328586136
+status: 3
+tags: []
+user_id: sanjay

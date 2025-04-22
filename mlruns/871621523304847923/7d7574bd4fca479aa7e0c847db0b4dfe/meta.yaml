@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/871621523304847923/7d7574bd4fca479aa7e0c847db0b4dfe/artifacts
+end_time: 1745329649747
+entry_point_name: ''
+experiment_id: '871621523304847923'
+lifecycle_stage: active
+run_id: 7d7574bd4fca479aa7e0c847db0b4dfe
+run_name: agreeable-goose-857
+run_uuid: 7d7574bd4fca479aa7e0c847db0b4dfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745329645847
+status: 3
+tags: []
+user_id: sanjay

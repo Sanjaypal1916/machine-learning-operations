@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/312577456340133905/6448fce3c04049c19cd99e0fe67228d9/artifacts
+end_time: 1745332478554
+entry_point_name: ''
+experiment_id: '312577456340133905'
+lifecycle_stage: active
+run_id: 6448fce3c04049c19cd99e0fe67228d9
+run_name: charming-conch-487
+run_uuid: 6448fce3c04049c19cd99e0fe67228d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745332478458
+status: 3
+tags: []
+user_id: sanjay
